@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\FixedMath\FixedMath\FixedMath.csproj" />
+    <ProjectReference Include="..\JoyCollections\JoyCollections\JoyCollections.csproj" />
   </ItemGroup>
 
 </Project>
