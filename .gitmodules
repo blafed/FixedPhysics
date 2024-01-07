@@ -1,0 +1,3 @@
+[submodule "FixedMath"]
+	path = FixedMath
+	url = https://github.com/blafed/FixedMath
