@@ -4,4 +4,8 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\FixedMath\FixedMath\FixedMath.csproj" />
+  </ItemGroup>
+
 </Project>

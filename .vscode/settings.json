@@ -62,5 +62,5 @@
     "**/*.code-search": true,
     "FixedMath/Lut": true
   },
-  "dotnet.defaultSolution": "Mazo.sln"
+  "dotnet.defaultSolution": "FixedPhysics.sln"
 }
