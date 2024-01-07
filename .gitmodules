@@ -1,3 +1,6 @@
 [submodule "FixedMath"]
 	path = FixedMath
 	url = https://github.com/blafed/FixedMath
+[submodule "JoyCollections"]
+	path = JoyCollections
+	url = https://github.com/blafed/JoyCollections.git
